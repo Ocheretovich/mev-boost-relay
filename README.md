@@ -390,7 +390,7 @@ If you find a security vulnerability on this project or any other initiative rel
 
 ## Audits
 
-- [20220822](docs/audit-20220822.md), by [lotusbumi](https://github.com/lotusbumi).
+- [20220822](https://github.com/flashbots/mev-boost-relay/blob/main/docs/docs/20220822-audit.md), by [lotusbumi](https://github.com/lotusbumi).
 
 # License
 
